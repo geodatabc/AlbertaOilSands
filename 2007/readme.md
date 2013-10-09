@@ -1,6 +1,6 @@
 #Alberta Oil Sand project boundaries, 2007#
 
-Digitized by Geoff Senichenko from Alberta government PDF.
+Digitized by @geoffsen from Alberta government PDF.
 
 ##Data source##
 
